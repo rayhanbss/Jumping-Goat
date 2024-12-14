@@ -1,0 +1,32 @@
+﻿  main.cpp
+D:\Project\Kuliah\Semester 1\UAS\Jumping Goat (Source Code) - Copy\Jumping Goat\game.hpp(35,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Project\Kuliah\Semester 1\UAS\Jumping Goat (Source Code) - Copy\Jumping Goat\game.hpp(35,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Project\Kuliah\Semester 1\UAS\Jumping Goat (Source Code) - Copy\Jumping Goat\game.hpp(41,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Project\Kuliah\Semester 1\UAS\Jumping Goat (Source Code) - Copy\Jumping Goat\game.hpp(64,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Project\Kuliah\Semester 1\UAS\Jumping Goat (Source Code) - Copy\Jumping Goat\game.hpp(65,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Project\Kuliah\Semester 1\UAS\Jumping Goat (Source Code) - Copy\Jumping Goat\game.hpp(67,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Project\Kuliah\Semester 1\UAS\Jumping Goat (Source Code) - Copy\Jumping Goat\game.hpp(91,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Project\Kuliah\Semester 1\UAS\Jumping Goat (Source Code) - Copy\Jumping Goat\game.hpp(92,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Project\Kuliah\Semester 1\UAS\Jumping Goat (Source Code) - Copy\Jumping Goat\game.hpp(133,41): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Project\Kuliah\Semester 1\UAS\Jumping Goat (Source Code) - Copy\Jumping Goat\game.hpp(134,41): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Project\Kuliah\Semester 1\UAS\Jumping Goat (Source Code) - Copy\Jumping Goat\game.hpp(137,1): warning C4305: '*=': truncation from 'double' to 'float'
+D:\Project\Kuliah\Semester 1\UAS\Jumping Goat (Source Code) - Copy\Jumping Goat\game.hpp(138,1): warning C4305: '*=': truncation from 'double' to 'float'
+D:\Project\Kuliah\Semester 1\UAS\Jumping Goat (Source Code) - Copy\Jumping Goat\main.cpp(5,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Project\Kuliah\Semester 1\UAS\Jumping Goat (Source Code) - Copy\Jumping Goat\main.cpp(27,43): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Project\Kuliah\Semester 1\UAS\Jumping Goat (Source Code) - Copy\Jumping Goat\main.cpp(28,49): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Project\Kuliah\Semester 1\UAS\Jumping Goat (Source Code) - Copy\Jumping Goat\main.cpp(29,45): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Project\Kuliah\Semester 1\UAS\Jumping Goat (Source Code) - Copy\Jumping Goat\main.cpp(38,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Project\Kuliah\Semester 1\UAS\Jumping Goat (Source Code) - Copy\Jumping Goat\main.cpp(124,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Project\Kuliah\Semester 1\UAS\Jumping Goat (Source Code) - Copy\Jumping Goat\main.cpp(124,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Project\Kuliah\Semester 1\UAS\Jumping Goat (Source Code) - Copy\Jumping Goat\main.cpp(144,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Project\Kuliah\Semester 1\UAS\Jumping Goat (Source Code) - Copy\Jumping Goat\main.cpp(144,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Project\Kuliah\Semester 1\UAS\Jumping Goat (Source Code) - Copy\Jumping Goat\main.cpp(152,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Project\Kuliah\Semester 1\UAS\Jumping Goat (Source Code) - Copy\Jumping Goat\main.cpp(152,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Project\Kuliah\Semester 1\UAS\Jumping Goat (Source Code) - Copy\Jumping Goat\main.cpp(152,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Project\Kuliah\Semester 1\UAS\Jumping Goat (Source Code) - Copy\Jumping Goat\main.cpp(165,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Project\Kuliah\Semester 1\UAS\Jumping Goat (Source Code) - Copy\Jumping Goat\main.cpp(165,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Project\Kuliah\Semester 1\UAS\Jumping Goat (Source Code) - Copy\Jumping Goat\main.cpp(188,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Project\Kuliah\Semester 1\UAS\Jumping Goat (Source Code) - Copy\Jumping Goat\main.cpp(232,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Jumping Goat.vcxproj -> D:\Project\Kuliah\Semester 1\UAS\Jumping Goat (Source Code) - Copy\x64\Debug\Jumping Goat.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
